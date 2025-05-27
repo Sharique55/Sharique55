@@ -14,9 +14,31 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 What You'll Find Here
 
-I'm a passionate technologist specialized in modern and legacy enterprise technologies. My journey spans leading-edge cloud engineering to deep expertise in AS400 and integration frameworks. I thrive in fast-paced, agile environments, always seeking to learn, adapt, and deliver innovative solutions.
+🛠️  My tech stack, skills, and certifications
+
+⚙️  Tools, code snippets, and productivity hacks I use daily
+
+📊  GitHub activity stats and contribution widgets
+
+📌  Pinned gists and featured repositories
+
+🌟  A visual flair that reflects my developer identity
+
+---
+
+## 💬 Why This Exists
+
+This repository is a public window into:
+
+  -  My technical journey
+
+  -  Open-source contributions
+
+  -  Professional highlights & side projects
+
+Whether you're a recruiter, collaborator, or fellow developer — welcome aboard!
 
 ---
 
