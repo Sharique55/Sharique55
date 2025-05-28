@@ -84,6 +84,12 @@ Whether you're a recruiter, collaborator, or fellow developer — welcome aboard
 > “The Expert in anything was once a Beginner…”
 
 
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=gwenf&show_icons=true)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwenf)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <!--
 **Sharique55/Sharique55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
