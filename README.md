@@ -22,7 +22,7 @@
 
 📊  GitHub activity stats and contribution widgets
 
-📌  Pinned gists and featured repositories
+📌  Pinned [gists](https://gist.github.com/Sharique55) and featured [repositories](https://github.com/Sharique55?tab=repositories)
 
 🌟  A visual flair that reflects my developer identity
 
